@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Principal">
+
+<menu>
+<item
+    android:id="@+id/casa"
+android:icon="@drawable/ic_casa"
+android:title="Home">
+
+</item>
+
+    <item
+        android:id="@+id/grupo"
+        android:icon="@drawable/ic_grupo"
+        android:title="Grupo">
+
+    </item>
+
+    <item
+        android:id="@+id/grupo2"
+        android:icon="@drawable/ic_grupo"
+        android:title="Grupo 2">
+
+    </item>
+
+
+</menu>
+
+
+
+</item>
+
+    <item android:title="Secundario">
+
+        <menu>
+
+            <item
+                android:id="@+id/grupo3"
+                android:icon="@drawable/ic_grupo"
+                android:title="Grupo 3">
+
+            </item>
+
+
+        </menu>
+
+
+
+    </item>
+
+
+
+</menu>

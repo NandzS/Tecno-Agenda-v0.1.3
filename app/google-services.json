@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668117882792",
+    "project_id": "tecno-agenda",
+    "storage_bucket": "tecno-agenda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668117882792:android:6e03560290f7327447af9d",
+        "android_client_info": {
+          "package_name": "com.example.agenda10gs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668117882792-j72ta2puaj2k3rejs3r35nhbrvigkfmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiY1pboIjKa18lKVZb0qUaMFih7lREfpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668117882792-j72ta2puaj2k3rejs3r35nhbrvigkfmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
